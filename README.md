@@ -1,5 +1,7 @@
 # AirBnBot
 
+![Python application](https://github.com/arthuRHD/airbnbot/workflows/Python%20application/badge.svg)
+
 > Arthur RICHARD
 
 ## Description
